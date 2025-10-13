@@ -71,32 +71,6 @@ Now open [http://127.0.0.1:5000](http://127.0.0.1:5000) in your browser.
 
 ---
 
-## ✅ Example Usage
-
-1. Open the app in the browser.  
-2. Click **"Login with Google"**.  
-3. Authenticate with your Google account.  
-4. See your profile information displayed on the profile page.  
-
----
-
-## 📦 Dependencies
-
-```txt
-Flask==3.0.3
-google-auth==2.34.0
-google-auth-oauthlib==1.2.1
-google-auth-httplib2==0.2.0
-requests==2.32.3
-```
-
-Install via:
-```bash
-pip install -r requirements.txt
-```
-
----
-
 ## 🛡️ Security Notes
 
 - Never upload your `client_secret.json` to GitHub.  
