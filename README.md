@@ -20,14 +20,12 @@ This project helps you integrate Google login into your Flask apps securely and 
 ```
 flask_google_oauth/
 │── app.py              # Main Flask application
-│── client_secret.json  # Google OAuth credentials (keep this private!)
 │── templates/          # HTML templates
 │    ├── index.html
 │    ├── profile.html
 │── static/             # Static files (CSS, JS, images)
 │── venv/               # Virtual environment (not uploaded to GitHub)
 │── requirements.txt    # Project dependencies
-│── README.md           # Project documentation
 ```
 
 ---
@@ -36,7 +34,7 @@ flask_google_oauth/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/flask_google_oauth.git
+git clone https://github.com/dineshsinghdhami/flask_google_oauth.git
 cd flask_google_oauth
 ```
 
@@ -86,6 +84,8 @@ If you’d like to improve this project, please fork the repo and submit a PR.
 
 ---
 
-## 📜 License
+## ©️ Copyright
 
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE.md) file for details.
+- © 2025 Dinesh Singh Dhami — All Rights Reserved.
+- This project is licensed for personal and educational use.
+- For commercial use or redistribution, please contact the owner.
